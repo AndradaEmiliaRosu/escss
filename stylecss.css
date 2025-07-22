@@ -1,0 +1,57 @@
+*
+ {
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+
+nav{
+    background-color: #3d3d3d;
+}
+.titoli{
+    color:blanchedalmond
+}
+.logo { 
+    width: 100px;
+    height: 90px;
+}
+.home{
+    color: white;
+    font-size:  40px; 
+}
+header{
+    background-image: url(./media/bgimg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    text-align: center;
+}
+
+.home{
+    color: white;
+    font-size: 40px;
+}
+
+   .iscriviti{
+    background-color: blueviolet;
+    color: black;
+   }
+   .iscriviti:hover{
+    background-color:yellow ;
+    color: black;
+   }
+header>h1{
+    color: white;
+}
+    .bott{
+        background-color: yellow;
+        color: black;
+    }
+    .bott:hover{
+        background-color: blueviolet;
+        color: black;
+    }
+   
